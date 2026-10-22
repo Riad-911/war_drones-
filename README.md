@@ -1,2 +1,2 @@
-# war_drones-
-equipped with high quality cameras to detect enemy soldiers and fly right to them and exploding
+# drone_T40
+Drone designed to deliver recources to serounded people during desasters
